@@ -1,0 +1,15 @@
+{
+  "name": "calculatorapi",
+  "version": "1.0.0",
+  "description": "this is a calculator api ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1",
+    "hapi": "^18.1.0"
+  }
+}
