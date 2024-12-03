@@ -3,5 +3,5 @@ app = express();
 require("./routes/routes")(app)
 
 app.listen(3000, () => {
-  console.log("server is running");
+  console.log("server is runnin");
 });
